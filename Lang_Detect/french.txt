@@ -1,0 +1,2 @@
+Bonjour, mon nom est anthony et je teste si mon programme peut reconnaître la langue dans laquelle il s'agit d'.
+Je suis un lycéen participant à l'étude en robotique et en classe de programmation.
